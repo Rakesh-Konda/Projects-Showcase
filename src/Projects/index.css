@@ -1,0 +1,53 @@
+.na {
+  background-color: #cbd5e1;
+}
+.logo {
+  width: 150px;
+  height: 60px;
+  margin: 10px;
+  margin-left: 40px;
+}
+.sel {
+  width: 200px;
+  margin-left: 50px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.img {
+  width: 180px;
+  height: 130px;
+}
+.li {
+  margin: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.p {
+  text-align: center;
+  width: 170px;
+}
+.load {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fail {
+  width: 400px;
+  height: 400px;
+}
+.but {
+  background-color: blue;
+  color: white;
+  border: 0px solid transparent;
+  width: 50px;
+  height: 25px;
+}
+.fdiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
